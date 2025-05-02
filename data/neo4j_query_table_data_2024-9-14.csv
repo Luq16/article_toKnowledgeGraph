@@ -1,0 +1,189 @@
+nodeId,labels,name
+0,[Study_Design],observational design
+1,[Bias_Type],selection bias
+2,[Bias_Type],respondent bias
+3,[Data_Collection_Method],self reported questionnaires
+4,[Data_Collection_Method],electronic health records
+5,[Study_Limitation],small sample size
+6,[Study_Limitation],short timeframe
+7,[Study_Limitation],lack of comparison group
+8,[Study_Limitation],underpowered detection of rare safety events
+9,[Study_Limitation],exclusion of multiple births
+10,[Study_Limitation],retrospective data acquisition
+11,[Study_Limitation],lack of randomization
+12,[Study_Limitation],single center study
+13,[Study_Limitation],exclusion of significant outcomes
+14,[Study_Limitation],high vaccination rate
+15,[Study_Limitation],insufficient power to detect differences
+16,[Study_Limitation],lack of detailed demographic information
+17,[Study_Limitation],exclusion of first trimester vaccinations
+18,[Study_Limitation],exclusion of births before 20 weeks
+19,[Study_Limitation],exclusion of private hospital and home births
+20,[Study_Limitation],unequal vaccine coverage
+21,[Study_Limitation],lack of data on third dose
+22,[Study_Limitation],missing data on selected confounders
+23,[Study_Limitation],missing data on breast feeding and day care attendance
+24,[Study_Limitation],lack of genotyping of viral particles
+25,[Study_Limitation],missing bmi data
+26,[Study_Limitation],lack of data on booster doses
+27,[Study_Limitation],focus on third trimester vaccination
+28,[Methodology],retrospective cohort study
+29,[Location],"melbourne, australia"
+30,[Location],"jerusalem, israel"
+31,[Organization],department of health and aged care
+32,[Health_System],ochsner health system
+33,[Health_System],mayo clinic health system
+34,[Data_Structure],vaccination registry
+35,[Data_Structure],delivery registry
+36,[Medical_Condition],covid 19
+37,[Vaccine],covid 19 mrna vaccine
+38,[Medical_Process],maternal immunization
+39,[Medical_Outcome],perinatal outcomes
+40,[Health_Outcome],neonatal and early infant outcomes
+41,[Medical_Outcome],severe complications from covid 19
+42,[Medical_Outcome],vaginal deliveries
+43,[Medical_Outcome],placentitis
+44,[Health_Outcome],stillbirths and preterm birth
+45,[Medical_Outcome],congenital anomalies
+46,[Medical_Technique],propensity score matching
+47,[Biological_Process],antibodies transfer across the placenta
+48,[Biological_Process],antibody production
+49,[Process],covid 19 vaccine trials
+50,[Demographic_Group],pregnant women
+51,[Outcome],neonatal safety
+52,[Healthcare_Concern],vaccine safety during pregnancy
+53,[Research_Method],prospective randomized controlled trials
+54,[Vaccine_Type],mrna vaccines
+55,[Vaccine_Type],viral vector vaccines
+56,[Medical_Condition],thrombocytopenia
+57,[Medical_Condition],thromboembolic events
+58,[Medical_Condition],myocarditis
+59,[Outcome],small for gestational age (sga)
+60,[Data_Source],v safe
+61,[Regulatory_Body],us food and drug administration (fda)
+62,[Community],non english speaking communities in melbourne
+63,[Vaccine],bnt162b2 covid 19 vaccine
+64,[Study_Type],population based study
+65,[Outcome],neonatal hospitalizations
+66,[Outcome],postneonatal hospitalizations
+67,[Outcome],infant mortality
+68,[Outcome],jaundice requiring phototherapy
+69,[Statistical_Method],stabilized inverse probability of treatment weights (iptw)
+70,[Statistical_Method],poisson regression
+71,[Health_Condition],severe acute respiratory syndrome coronavirus (sars cov 2)
+72,[Vaccine_Effect],lower risk of covid 19 infection
+73,[Vaccine_Effect],lower risk of obstetrical complications
+74,[Vaccine_Effect],lower risk of meconium stained amniotic fluid
+75,[Vaccine_Effect],lower risk of preterm birth
+76,[Vaccine_Effect],lower risk of stillbirth
+77,[Vaccine_Effect],lower risk of nicu admission
+78,[Vaccine_Effect],lower risk of severe covid 19 in infants
+79,[Vaccine_Effect],lower risk of maternal covid 19 infection
+80,[Vaccine_Effect],lower risk of cesarean delivery
+81,[Vaccine_Effect],lower risk of maternal mortality related to covid 19
+82,[Vaccine_Effect],lower risk of perinatal death
+83,[Vaccine_Effect],lower risk of adverse pregnancy outcomes
+84,[Vaccine_Effect],lower risk of critical or severe covid 19
+85,[Location],"soroka university medical center, israel"
+86,[Location],"sfax, tunisia"
+87,[Data_Source],vaccine safety datalink (vsd)
+88,[Health_Outcome],neonatal respiratory complications
+89,[Health_Outcome],maternal mortality
+90,[Health_Outcome],hospitalization for covid 19
+91,[Person],"inbal goldshtein, phd"
+92,[Person],"david m. steinberg, phd"
+93,[Person],"jacob kuint, md"
+94,[Person],"gabriel chodick, phd"
+95,[Person],"yaakov segal, md"
+96,[Person],"shirley shapiro ben david, md"
+97,[Person],"amir ben tov, md"
+98,[Person],nir kugelman
+99,[Person],arieh riskin
+100,[Person],reuven kedar
+101,[Person],shlomit riskin mashiah
+102,[Person],ravit peretz machluf
+103,[Person],galit hirsh yechezkel
+104,[Person],inna zaslavsky paltiel
+105,[Person],adel farhi
+106,[Person],nir avisar
+107,[Person],liat lerner geva
+108,[Person],raanan meyer
+109,[Person],abraham tsur
+110,[Person],yoav yinon
+111,[Person],tamar wainstock
+112,[Person],israel yoles
+113,[Person],ruslan sergienko
+114,[Person],eyal sheiner
+115,[Person],anouar jarraya
+116,[Person],manel kammoun
+117,[Person],salim amouri
+118,[Person],sahar elleuch
+119,[Person],fatma khanfir
+120,[Person],kais chaabene
+121,[Person],kamel kolsi
+122,[Person],lisa hui
+123,[Person],melvin b. marzan
+124,[Person],daniel l. rolnik
+125,[Person],stephanie potenza
+126,[Person],natasha pritchard
+127,[Person],joanne m. said
+128,[Person],kirsten r. palmer
+129,[Person],clare l. whitehead
+130,[Person],penelope m. sheehan
+131,[Person],jolyon ford
+132,[Person],ben w. mol
+133,[Person],susan p. walker
+134,[Person],m rottenstreich
+135,[Person],hy sela
+136,[Person],r rotem
+137,[Person],e kadish
+138,[Person],y wiener well
+139,[Person],s grisaru granovsky
+140,[Person],aharon dick
+141,[Person],joshua i rosenbloom
+142,[Person],einat gutman ido
+143,[Person],naama lessans
+144,[Person],adva cahen peretz
+145,[Person],henry h chill
+146,[Person],m.m. patel
+147,[Person],heather s. lipkind
+148,[Person],gabriela vazquez benitez
+149,[Person],malini desilva
+150,[Person],kimberly k. vesco
+151,[Person],christina ackerman banks
+152,[Person],jingyi zhu
+153,[Person],thomas g. boyce
+154,[Person],matthew f. daley
+155,[Person],candace c. fuller
+156,[Person],darios getahun
+157,[Person],stephanie a. irving
+158,[Person],lisa a. jackson
+159,[Person],joshua t.b. williams
+160,[Person],ousseny zerbo
+161,[Person],michael m. mcneil
+162,[Person],christine k. olson
+163,[Person],eric weintraub
+164,[Person],elyse o. kharbanda
+165,[Person],brad crane
+166,[Person],allison naleway
+167,[Person],leslie kuckler
+168,[Person],"john a. morgan, md"
+169,[Person],"joseph r. biggio jr, md, ms"
+170,[Person],"jane k. martin, md"
+171,[Person],"naiha mussarat, md"
+172,[Person],"ardem elmayan, mph"
+173,[Person],"harsheen k. chawla, bsc"
+174,[Person],"savannah kandalaft, bsc"
+175,[Person],"gabrielle r. magalski, bsc"
+176,[Person],"priya puri, bsc"
+177,[Person],"frank b. williams, md"
+178,[Person],regan n. theiler
+179,[Person],myra wick
+180,[Person],ramila mehta
+181,[Person],amy l. weaver
+182,[Person],abinash virk
+183,[Person],melanie swift
+184,[Health_Outcome],obstetric and neonatal outcomes
+185,[Study_Type],prospective observational research
+186,[Study_Type],multicenter cohort study
+187,[Healthcare_Organization],us department of health and human services/centers for disease control and prevention
