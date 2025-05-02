@@ -1,0 +1,291 @@
+Node,PageRank Score
+perinatal outcomes,0.07998646092390302
+self reported data,0.06909682331191878
+pregnancy outcomes,0.031244372806180226
+intrauterine growth retardation,0.028797014234970098
+low apgar score,0.025544071179620428
+pregnant women,0.02459811073984537
+covid 19 vaccine,0.019548337273739332
+pregnancy,0.01824346428049478
+lower vaccination rate,0.016526616073776933
+general adult population,0.015116137634427223
+retrospective cohort study,0.014969650895577068
+prematurity,0.01335675912368404
+confidence intervals,0.01039061132365909
+prenatal pfizer biontech covid 19 vaccination,0.010343551681761588
+vaccine safety and efficacy,0.010026382087486352
+covid 19,0.009934523357798168
+severe covid 19 complications,0.009858023734623545
+maternal vaccination,0.009003234275262461
+maternal characteristics,0.00847648006494492
+covid 19 vaccine uptake,0.007904385664767442
+clinical trials,0.007707407921108548
+third trimester,0.007324191278501874
+variants,0.007159974957736809
+social determinants of health,0.007116302933370804
+vaccination status,0.007116302933370804
+"sfax, tunisia",0.007116302933370804
+hedi chaker university hospital,0.007116302933370804
+nicu admissions,0.006891170294596268
+covid 19 waves,0.006724564630245581
+causality inference,0.006669314678434622
+stillbirth,0.006637967437664276
+unvaccinated women,0.006634924969082809
+icu hospitalization,0.006300709969734007
+vaccinated women,0.006093609045970743
+infants younger than 6 months,0.0059412958404003995
+hypothesis test,0.00547914873822666
+multiplicity,0.00547914873822666
+prenatal care,0.005295643221076417
+safety during pregnancy,0.005158115997373538
+covid 19 infection rates,0.00495960532321468
+intensive care unit admission,0.004758797821296072
+vaccination,0.004521851631017426
+severe illness,0.004449690445616826
+bnt162b2 mrna,0.004418826675377765
+death,0.004342260702088463
+safety of covid 19 vaccination in pregnancy,0.004286604457118452
+timing of vaccination,0.004231762438441779
+vaccination status by gestational age,0.004226002789941111
+israel,0.004174229469144003
+congenital anomalies,0.004086543857558794
+early infant mortality,0.004079022934998088
+singleton pregnancies,0.003880085604373594
+vaccine,0.0038761184682113824
+health fund,0.003823411885473917
+small birth weight for gestational age,0.003764161355837921
+preterm birth,0.0037244526931742555
+sample size,0.0037223389212295514
+public health messaging,0.003693027573730339
+immune responses,0.003674976063247083
+maternal and neonatal outcomes,0.0036454066041441396
+number of doses received,0.003544920863392949
+severe adverse outcome,0.003459405164006336
+pregnancy related hypertensive disorders,0.003354826406919157
+prenatal exposure,0.0032994443925582354
+socioeconomic position,0.0032771221444311237
+pregnancy complications,0.0032433755409019497
+neutralizing antibodies,0.003213129900299717
+neonate,0.003127072873428672
+propensity score matching,0.003092516185066621
+non english speaking communities,0.003088515188175516
+generalizability,0.003039337386224513
+aor (adjusted odds ratio),0.0029989914034749578
+small for gestational age,0.002993411590381468
+first trimester exposures,0.002906344767216968
+miscarriage risk,0.0028965702705025086
+systematic review and meta analysis,0.00288283268231773
+date of vaccination,0.00288283268231773
+vaccine side effects,0.0026807828824339137
+confounders,0.0026635134940012966
+0.91 for preterm birth,0.0026435731446332704
+covid 19 vaccine status,0.002627751443189042
+neonatal humoral immunity,0.002612673767371886
+0.95 for sga,0.0026041093487734297
+delivery database,0.0025947685977242172
+mode of delivery,0.0025768859964554486
+electronic medical record system,0.0025713712908866327
+adjusted hazard ratio,0.0024290503563627643
+booster doses,0.0024173456090392544
+risks associated with covid 19 disease in pregnancy,0.0024091100069947376
+bmi data,0.002382062782253385
+rural areas,0.002345924184165231
+safety data,0.002345924184165231
+vaccine efficacy,0.002345924184165231
+neonatal and early infant outcomes,0.0023231351739320468
+"over 40,000 pregnant women",0.002310126728676481
+mrna covid 19 vaccination,0.0023075650678060482
+newborn complications,0.002265541652344412
+multiple births,0.002224483407932431
+live born bias,0.0021099771638433415
+new virus mutations,0.0020874958656638036
+selection bias,0.002067267593836867
+antibody levels,0.0020381527712267362
+transfer of antibodies,0.0020381527712267362
+vaccination during pregnancy,0.002011603883442694
+experimental study,0.0019752680304077983
+timing of the second dose,0.0019752680304077983
+infected cases,0.0019752680304077983
+previous caesarean deliveries,0.0019752680304077983
+time interval between vaccination and pregnancy termination,0.0019752680304077983
+risk factors for preterm birth,0.0019752680304077983
+background diseases,0.0019158638851799314
+gestation,0.0018316996757574725
+cesarean delivery rates,0.0018040669057214497
+hospital stays,0.0017828360546546017
+omicron variant,0.001752637167395121
+observational design,0.0017432523754328897
+validated primary data,0.0017324088955681847
+trimester at vaccination,0.0017297915595730848
+fetus,0.0016902856277024878
+underlying health conditions,0.0016638066389767006
+specific type of vaccine,0.0016638066389767006
+safety,0.00164288835419852
+neonates with very low birth weight,0.0016342192903844215
+pre admission covid 19 virus disease,0.0016059362185570957
+asymptomatic women,0.0016059362185570957
+all cause hospitalizations,0.001572075225928897
+early preterm births,0.001572075225928897
+very low birth weight,0.001572075225928897
+protective benefits,0.001572075225928897
+meconium stained amniotic fluid,0.0015695241078703837
+covid 19 symptoms,0.0015634061621147984
+birthweight,0.0015608550440562852
+cesarean section delivery,0.0015608550440562852
+gestations exposed in the first trimester,0.0015578215574877279
+timing of the first dose during pregnancy,0.0015578215574877279
+mechanical ventilation,0.001549025581499227
+small sample size,0.0015372712102020923
+descriptive study,0.0015214857044528322
+breastfeeding women,0.0015214857044528322
+day care attendance,0.0015214857044528322
+phototherapy,0.0015214857044528322
+factors associated with covid 19 vaccination,0.0015214857044528322
+medical records opt out,0.0015214857044528322
+adverse outcome index,0.0015015453550848057
+newborn respiratory complications,0.0015015453550848057
+higher education level,0.0014869219080031356
+antibody detection in cord blood,0.0014863836502917375
+embryogenesis stage,0.0014863836502917375
+sars cov 2,0.0014795561027875544
+vacuum assisted vaginal delivery,0.0014795561027875544
+postpartum hemorrhage,0.0014795561027875544
+chorioamnionitis,0.0014795561027875544
+previous miscarriages,0.0014795561027875544
+fertility treatments,0.0014795561027875544
+confounding bias,0.0014761134291207578
+vasoactive infusions,0.0014155705220221147
+covid 19 infection in pregnant women,0.0014130194039636012
+non reassuring fetal monitoring,0.0014130194039636012
+ochsner health system,0.0014025620767665488
+outcomes of vaccination during the first trimester,0.0014025620767665488
+first trimester bmi,0.0014025620767665488
+bias,0.0014025620767665488
+comprehensive vaccine registry,0.0014025620767665488
+israeli national health system,0.0014025620767665488
+statistical power,0.0014025620767665488
+potential confounding factors,0.0014025620767665488
+live births,0.0014025620767665488
+soroka university medical center,0.0014025620767665488
+health care organizations,0.0014025620767665488
+electronic medical records analysis,0.0014025620767665488
+viral vector vaccine,0.0014025620767665488
+data entry errors,0.0014025620767665488
+exclusion of certain populations,0.0014025620767665488
+prepregnancy bmi,0.0014025620767665488
+primary medical records,0.0014025620767665488
+viral particles genotyping,0.0014025620767665488
+further research,0.001394381569759556
+misinformation,0.0013702249291345104
+one versus two doses,0.0013702249291345104
+perceived low risk in young healthy females,0.0013702249291345104
+lack of initial trial data on pregnant individuals,0.0013702249291345104
+early neonatal deaths,0.0012664044653241443
+positive covid 19 pcr test,0.0012664044653241443
+jaundice requiring phototherapy,0.0012242080824046487
+miscarriage,0.0012242080824046487
+neonatal adverse outcomes,0.0012242080824046487
+early pre term labor,0.0012242080824046487
+sars cov 2 immunoglobulin g,0.0012242080824046487
+offspring immunity,0.00121553901859055
+vertical transmission,0.00121553901859055
+ards,0.00121553901859055
+oxygen support,0.00121553901859055
+thrombocytopenia,0.00121553901859055
+umbilical cord base excess,0.00121553901859055
+myocarditis,0.00121553901859055
+non singleton births,0.0012024125119334094
+mother offspring linkage,0.0012024125119334094
+short timeframes,0.0012024125119334094
+residual confounding,0.0012024125119334094
+non pregnant counterparts,0.0012011584379749787
+invasive ventilation,0.0012011584379749787
+protective effect,0.0011657774586854009
+apgar score,0.0011657774586854009
+iufd,0.0011657774586854009
+fixed cohort bias,0.0010677033784978662
+omicron variant period,0.0010677033784978662
+adverse events following vaccination,0.0010677033784978662
+adjusted multivariable logistic regression analysis,0.0010677033784978662
+march to september 2021,0.0010677033784978662
+unexposed during pregnancy,0.0010677033784978662
+last menstrual period cohort,0.0010677033784978662
+mode of conception,0.0010677033784978662
+observational data,0.0010677033784978662
+planned home births,0.0010677033784978662
+maccabi healthcare services,0.0010677033784978662
+melbourne,0.0010677033784978662
+elective caesarean delivery,0.0010677033784978662
+exposed,0.0010677033784978662
+healthcare seeking behavior,0.0010677033784978662
+insufficient power,0.0010677033784978662
+preterm premature rupture of membranes,0.0010677033784978662
+timing of diagnoses for hypertensive disorders of pregnancy,0.0010677033784978662
+stock et al.,0.0010677033784978662
+trimester,0.0010677033784978662
+health literacy,0.0010677033784978662
+race/ethnicity,0.0010677033784978662
+pivotal trials,0.0010677033784978662
+multiple imputation,0.0010677033784978662
+v safe smartphone application,0.0010677033784978662
+vaccinated patient,0.0010677033784978662
+maternal age,0.0010677033784978662
+individual medical record data,0.0010677033784978662
+gravidity,0.0010677033784978662
+overlap between groups,0.0010677033784978662
+least vaccinated populations,0.0010677033784978662
+manual medical record reviews,0.0010677033784978662
+louisiana immunization network,0.0010677033784978662
+early clinical trials of the covid 19 vaccine,0.0010677033784978662
+propensity to be vaccinated,0.0010677033784978662
+comorbidities,0.0010677033784978662
+breast feeding,0.0010677033784978662
+vaccine hesitancy in pregnancy,0.0010677033784978662
+types of vaccines administered,0.0010677033784978662
+cox models,0.0010677033784978662
+private hospital births,0.0010677033784978662
+inverse propensity score weighting regression adjustment,0.0010677033784978662
+smokers,0.0010677033784978662
+age,0.0010677033784978662
+time varying exposure,0.0010677033784978662
+singleton live births,0.0010677033784978662
+questionnaires,0.0010677033784978662
+gestational diabetes,0.0010677033784978662
+multistate hospital system,0.0010677033784978662
+statistical methods,0.0010677033784978662
+severe acidemia,0.0010677033784978662
+united states,0.0010677033784978662
+sample size calculation,0.0010677033784978662
+delta variant period,0.0010677033784978662
+timing of diagnoses for gestational diabetes,0.0010677033784978662
+public health groups,0.0010677033784978662
+partially vaccinated patients,0.0010677033784978662
+pfizer/biontech,0.0010677033784978662
+sensitivity analysis,0.0010677033784978662
+parity,0.0010677033784978662
+bmi,0.0010677033784978662
+smoking status,0.0010677033784978662
+united kingdom,0.0010677033784978662
+public hospitals in melbourne,0.0010677033784978662
+vaccine safety,0.0010677033784978662
+gestational age at delivery,0.0010677033784978662
+demographic parameters,0.0010677033784978662
+cdc,0.0010677033784978662
+number of vaccine doses,0.0010677033784978662
+mrna vaccines,0.0010677033784978662
+4.9% preterm birth prevalence in vaccinated women,0.0010677033784978662
+lower gravidity,0.0010677033784978662
+initial clinical trials,0.0010677033784978662
+missed vaccinations,0.0010677033784978662
+interval between vaccinations,0.0010677033784978662
+unvaccinated comparison group,0.0010677033784978662
+bhmc,0.0010677033784978662
+maternal fever,0.0010677033784978662
+szmc,0.0010677033784978662
+vaccine safety datalink,0.0010677033784978662
+participant reported surveys,0.0010677033784978662
+mayo clinic cohort,0.0010677033784978662
+average treatment effect on the treated,0.0010677033784978662
+variant predominance,0.0010677033784978662
+randomization,0.0010677033784978662
+clinical features,0.0010677033784978662
