@@ -1,0 +1,26 @@
+# Pinned dependencies for knowledge_graph_demo.ipynb
+# Verified against the working .venv in this repo (itext2kg 0.0.3 API).
+# Install:  pip install -r requirements_kg_demo.txt
+
+# --- Text -> knowledge graph extraction ---
+itext2kg==0.0.3
+
+# --- LLM + document loading (langchain 0.1.x line; itext2kg 0.0.3 targets it) ---
+langchain==0.1.10
+langchain-openai==0.0.8
+langchain-community==0.0.25
+openai==1.35.7
+pydantic==2.9.1
+
+# --- Neo4j driver + Cypher querying ---
+neo4j==5.24.0
+
+# --- Load credentials from .env ---
+python-dotenv
+
+# --- PDF loading (optional source path in the notebook) ---
+pypdf==4.2.0
+
+# --- Local visualization ---
+networkx==2.5.1
+matplotlib==3.7.5

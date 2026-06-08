@@ -1,0 +1,20 @@
+/.venv
+.env
+.DS_Store
+.ipynb_checkpoints/
+/code_scratch.py
+Screenshot*.png
+/__pycache__
+/app.py
+/code.py
+/dgraph.pkl
+/distilled_doc.pkl
+/myenv
+/nlp_graph.ipynb
+/output
+/output.txt
+/reb.py
+/result
+/subject_object_extraction.py
+/text2graph copy.ipynb
+/text2graph.ipynb
